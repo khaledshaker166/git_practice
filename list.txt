@@ -1,6 +1,14 @@
+Fruits and Vegetables
 Banans
 Oranges
 Strawbrry
 Apples
 
+Meats 
 Sausages
+Hotdogs
+
+todolist
+python intermediate
+mathmatics 365 data science
+git and github
